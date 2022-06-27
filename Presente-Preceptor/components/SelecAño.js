@@ -11,8 +11,8 @@ export default function SelecAño{
          <Button placeholder="4°"/>
          <Button placeholder="5°"/>
          <Button placeholder="6°"/>
-         <Button placeholder="atras"/>
-         <Button placeholder="menu"/>
+         <Button/>
+         <Button/>
         </View>
     )
 };
