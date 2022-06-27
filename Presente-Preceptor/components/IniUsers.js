@@ -3,13 +3,13 @@ import { Text, TextInput, View, Button } from "react-native";
 
 export default Function IniUsers{
     return(
-        <view>
+        <View>
         <Text placerholder="Inicio de usuario"/>
         <Text placerholder="Nombre de usuario"/>
         <TextInput/>
         <Text placerholder="Contraseña"/>
         <TextInput/>
         <Button placerholder="Iniciar sesion"/>
-        </view>   
+        </View>   
     )
 };
