@@ -7,7 +7,7 @@ export default Function IniUsers{
         <Text placerholder="Inicio de usuario"/>
         <Text placerholder="Nombre de usuario"/>
         <TextInput/>
-        <
+        <Text placerholder="Contraseña"/>
         </view>   
     )
 };
