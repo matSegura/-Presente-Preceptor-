@@ -9,6 +9,7 @@ export default Function IniUsers{
         <TextInput/>
         <Text placerholder="Contraseña"/>
         <TextInput/>
+        <Button placerholder="Iniciar sesion"/>
         </view>   
     )
 };
