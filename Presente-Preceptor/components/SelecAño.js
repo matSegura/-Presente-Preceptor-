@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import React from "react-native";
 import { Text, Button, View } from "react-native";
+=======
+import React from "react";
+import { Text, View, Button}  from "react-native";
+>>>>>>> e1077227f9944a3ee1b23c67c15804fde5b1b77a
 
 export default function SelecAño{
     return(
