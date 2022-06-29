@@ -24,6 +24,7 @@ export default function App() {
         <Selec/>
         <IniUsers/>
         <ListadoCurs/>
+        <ListadoTaller/>
       </SafeAreaProvider>
     );
   }
