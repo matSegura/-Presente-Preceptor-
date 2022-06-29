@@ -6,6 +6,7 @@ export default function SelecTurno{
       <View>
       <Text placerholder="En que turno esta el taller"/>
       <Button placerholder="Turno mañana"/>  
+      <Button placerholder="Turno tarde"/>
       </View>
     )
 };
