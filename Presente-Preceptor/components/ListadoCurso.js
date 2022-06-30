@@ -1,5 +1,5 @@
 import React from "react" 
-import {Text, Button,View,} from "react-native"
+import {Text, Button,View} from "react-native"
 
 export default function ListadoCurso (){
     return(
