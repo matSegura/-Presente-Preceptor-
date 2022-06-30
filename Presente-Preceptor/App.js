@@ -23,7 +23,12 @@ export default function App() {
         <SelecAño/>
         <Selec/>
         <IniUsers/>
-        <ListadoCurs/>
+        <ListadoCurs1erAño/>
+        <ListadoCurs2doAño/>
+        <ListadoCurs3erAño/>
+        <ListadoCurs4toAño/>
+        <ListadoCurs5toAño/>
+        <ListadoCurs6toAño/>
         <ListadoTaller/>
       </SafeAreaProvider>
     );
