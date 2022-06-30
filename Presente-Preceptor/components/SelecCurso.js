@@ -1,10 +1,10 @@
 import React from "react";
 import { Text, View, Button}  from "react-native";
 
-export default function SelecAño{
+export default function SelecAño() {
     return(
         <View>
-         <Text placeholder="Seleccione un año"/>
+         <Text>Diviciones de curso</Text>
          <Button placeholder="..."/>
          <Button placeholder="..."/>
          <Button placeholder="..."/>
@@ -15,4 +15,4 @@ export default function SelecAño{
          <Button/>
         </View>
     )
-};
+}
