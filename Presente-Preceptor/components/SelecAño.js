@@ -10,7 +10,7 @@ export default function SelecAño(){
         <View>
          <Text>Seleccione un año</Text>
          <Button title="1°"/>
-         <Button placeholder="2°"/>
+         <Button title="2°"/>
          <Button placeholder="3°"/>
          <Button placeholder="4°"/>
          <Button placeholder="5°"/>
