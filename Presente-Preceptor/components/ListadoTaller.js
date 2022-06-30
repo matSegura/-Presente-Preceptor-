@@ -5,7 +5,7 @@ export default function ListadoTaller(){
     return(
         <View>
         <Text>Listado Taller {ListT}</Text>
-        <Text placeholder="Nombre del taller"/>
+        <Text> Nombre Talle{NomT}r</Text>
         <Text placeholder="Nombre del Alumno"/>
         <Button placeholder="A"/>
         <Button placeholder="P"/>
