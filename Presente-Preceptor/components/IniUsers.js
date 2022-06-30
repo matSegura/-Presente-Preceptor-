@@ -7,9 +7,9 @@ export default function IniUsers(){
         <Text>Inicio de usuario</Text>
         <Text>Nombre de usuario</Text>
         <TextInput/>
-        <Text placerholder="Contraseña"/>
+        <Text>Contraseña</Text>
         <TextInput/>
-        <Button placerholder="Iniciar sesion"/>
+        <Button title="Iniciar sesion"/>
         </View>   
     )
 }
