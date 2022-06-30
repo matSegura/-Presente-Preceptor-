@@ -14,7 +14,7 @@ export default function SelecAño(){
          <Button title="3°"/>
          <Button title="4°"/>
          <Button title="5°"/>
-         <Button placeholder="6°"/>
+         <Button title="6°"/>
          <Button/>
          <Button/>
         </View>
