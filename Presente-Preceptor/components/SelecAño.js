@@ -9,7 +9,7 @@ export default function SelecAño(){
     return(
         <View>
          <Text>Seleccione un año</Text>
-         <Button placeholder="1°"/>
+         <Button title="1°"/>
          <Button placeholder="2°"/>
          <Button placeholder="3°"/>
          <Button placeholder="4°"/>
