@@ -1,7 +1,7 @@
 import React from "react";
 import { Text, Button, View } from "react-native";
 
-export default function SelecTurno{
+export default function SelecTurno (){
     return(
       <View>
       <Text placerholder="En que turno esta el taller"/>
@@ -9,4 +9,4 @@ export default function SelecTurno{
       <Button placerholder="Turno tarde"/>
       </View>
     )
-};
+}

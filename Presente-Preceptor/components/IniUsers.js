@@ -1,7 +1,7 @@
-import React from "react-native";
+import React from "react";
 import { Text, TextInput, View, Button } from "react-native";
 
-export default Function IniUsers{
+export default function IniUsers(){
     return(
         <View>
         <Text placerholder="Inicio de usuario"/>
@@ -12,4 +12,4 @@ export default Function IniUsers{
         <Button placerholder="Iniciar sesion"/>
         </View>   
     )
-};
+}
