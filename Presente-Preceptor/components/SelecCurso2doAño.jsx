@@ -1,7 +1,7 @@
 import React from "react";
 import { Text, View, Button}  from "react-native";
 
-export default function SelecAño2do() {
+export default function SelecAño2() {
     return(
         <View>
          <Text>Diviciones de curso</Text>
