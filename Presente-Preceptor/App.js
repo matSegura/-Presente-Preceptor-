@@ -30,6 +30,7 @@ export default function App() {
         <ListadoCurs5toAño/>
         <ListadoCurs6toAño/>
         <ListadoTaller/>
+        <SelecTurno/>
       </SafeAreaProvider>
     );
   }
