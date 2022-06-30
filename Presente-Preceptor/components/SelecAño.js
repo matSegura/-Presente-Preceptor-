@@ -1,6 +1,3 @@
-import React from "react-native";
-import { Text, Button, View } from "react-native";
-
 import React from "react";
 import { Text, View, Button}  from "react-native";
 
