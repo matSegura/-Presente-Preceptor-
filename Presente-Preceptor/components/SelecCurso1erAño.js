@@ -5,12 +5,12 @@ export default function SelecAño() {
     return(
         <View>
          <Text>Diviciones de curso</Text>
-         <Button placeholder="..."/>
-         <Button placeholder="..."/>
-         <Button placeholder="..."/>
-         <Button placeholder="..."/>
-         <Button placeholder="..."/>
-         <Button placeholder="..."/>
+         <Button placeholder="1°1"/>
+         <Button placeholder="1°2"/>
+         <Button placeholder="1°3"/>
+         <Button placeholder="1°4"/>
+         <Button placeholder="1°5"/>
+         <Button placeholder="1°6"/>
          <Button/>
          <Button/>
         </View>
