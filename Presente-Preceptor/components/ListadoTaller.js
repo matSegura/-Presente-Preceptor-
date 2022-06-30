@@ -4,7 +4,7 @@ import {Text, Button,View,} from "react-native"
 export default function ListadoTaller(){
     return(
         <View>
-        <Text placeholder="Listado de taller"/>
+        <Text>Listado Taller {ListT}</Text>
         <Text placeholder="Nombre del taller"/>
         <Text placeholder="Nombre del Alumno"/>
         <Button placeholder="A"/>
