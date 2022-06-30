@@ -1,7 +1,7 @@
-import react from "react-native" 
+import React from "react" 
 import {Text, Button,View,} from "react-native"
 
-export default Function ListadoCurs{
+export default function ListadoTaller(){
     return(
         <View>
         <Text placeholder="Listado de taller"/>
