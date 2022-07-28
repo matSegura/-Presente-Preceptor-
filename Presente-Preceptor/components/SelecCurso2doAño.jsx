@@ -1,6 +1,8 @@
 import React from "react";
 import { Text, View, Button}  from "react-native";
 
+
+//Seleccion del 2do año
 export default function SelecAño2() {
     return(
         <View>
