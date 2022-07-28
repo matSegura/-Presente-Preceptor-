@@ -1,6 +1,8 @@
 import React from "react" 
 import {Text, Button,View} from "react-native"
 
+
+//Esta parte del codigo se encarga de ser la pantalla del listado de taller 
 export default function ListadoTaller(){
     return(
         <View>
