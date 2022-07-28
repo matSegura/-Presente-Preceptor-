@@ -1,6 +1,8 @@
 import React from "react" 
 import {Text, Button,View} from "react-native"
 
+
+//Esta parte se encarga de estar listado por curso
 export default function ListadoCurso (){
     return(
         <View>
