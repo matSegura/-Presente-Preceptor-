@@ -1,6 +1,8 @@
 import React from "react";
 import { Text, TextInput, View, Button } from "react-native";
 
+
+//El inicio de usuario
 export default function IniUsers(){
     return(
         <View>
