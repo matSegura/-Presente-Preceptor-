@@ -10,7 +10,43 @@ import { useColorScheme } from "react-native";
 import SelecAño from "./components/SelecAño";
 
 export default function App() {
-  const isLoadingComplete = useLoadedAssets();
+
+  return (
+    <View>
+      
+    </View>
+  );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* const isLoadingComplete = useLoadedAssets();
   const colorScheme = useColorScheme();
 
   if (!isLoadingComplete) {
@@ -33,5 +69,5 @@ export default function App() {
         <SelecTurno/>
       </SafeAreaProvider>
     );
-  }
+  }*/
 }
