@@ -1,6 +1,7 @@
 import React from "react";
 import { Text, View, Button}  from "react-native";
 
+//Seleccionar a cual primer año queres ir 
 export default function SelecAño1ro() {
     return(
         <View>
