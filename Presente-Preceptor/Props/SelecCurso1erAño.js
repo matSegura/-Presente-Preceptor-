@@ -3,5 +3,6 @@
 />
 
 function SelecCurso1erAño({prop6}){
-    return <Button>{porp6}</Button>;
+    return  <Button>{porp6}</Button>,
+            <Text>{prop6}</Text>;
 }
