@@ -1,4 +1,4 @@
-<my component 
+<ListadoCurso
  prop2="ListadoCurso.js"
  />
 
